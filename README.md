@@ -1,1 +1,1 @@
-# My first Meteor app following the "Discover Meteor" book.
+- My first Meteor app following the "Discover Meteor" book -
